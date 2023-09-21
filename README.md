@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Estudando para ser um programador JavaScript.</p>
+<p align="left">Estudando para se tornar um Desenvolvedor Full Stack JavaScript.</p>
 
 ###
 
