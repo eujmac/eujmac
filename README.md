@@ -1,14 +1,9 @@
-<h2 align="left">Olá 👋, Eu sou o João Marcos</h2>
+<h2 align="left">Olá 👋! Eu sou o João Marcos</h2>
 
 ###
-
-<p align="left">Estudando para se tornar um Desenvolvedor Full Stack JavaScript.</p>
-
-###
-
-<p align="left">Atualmente estudando React e Nodejs.</p>
-
-###
+ - Estudando para ser tornar um programador FullStack JavaScript.
+ - Atualmente estudando React e Nodejs.
+ - Contato: joaomarcosjmac@gmail.com ou linkedin: linkedin.com/in/eujmac/
 
 <br clear="both">
 
@@ -20,7 +15,7 @@
 ###
 
 <br clear="both">
-
+<h3 align="left">Tecnologias</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -44,16 +39,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </div>
-
-###
-
-<div align="left">
-  <a href="mailto:joaomarcosjmac@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/eujmac/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
